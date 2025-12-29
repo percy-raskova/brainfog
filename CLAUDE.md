@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Recovery Companion is a PWA designed to help people with ME/CFS manage brain fog and pacing. It provides a dark-themed, mobile-first interface with features like a crash mode blackout screen, rest timer, animal facts ("Fuzzy Logic"), pacing reminders, and a voice-enabled notes system.
+Brainfog is a PWA designed to help people with ME/CFS manage brain fog and pacing. It provides a dark-themed, mobile-first interface with features like a crash mode blackout screen, rest timer, animal facts ("Fuzzy Logic"), pacing reminders, and a voice-enabled notes system.
 
 ## Commands
 

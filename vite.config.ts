@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'Recovery Companion',
-        short_name: 'Recovery',
+        name: 'Brainfog',
+        short_name: 'Brainfog',
         description: 'A cognitive recovery aid for brain fog and pacing',
         theme_color: '#0f172a',
         background_color: '#0f172a',
